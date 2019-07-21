@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Osman made a tough decision!
+          Changing this will trigger auto-update!
         </p>
         <a
           className="App-link"
